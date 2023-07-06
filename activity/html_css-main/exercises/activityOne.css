@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    background-color: aqua;
+    width: 100%;
+
+}
+
+.esquerda,
+.direita,
+.centro {
+    width: 33%;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+
+h5 {
+    display: inline-block;
+}

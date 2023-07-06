@@ -1,0 +1,9 @@
+
+.botao{
+    border: 2px solid;
+    width: 203px;
+}
+
+.botao:hover{
+    border: 2px solid;
+}

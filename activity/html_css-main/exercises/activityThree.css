@@ -1,0 +1,40 @@
+body {
+    margin: -25px;
+}
+
+header {
+    background-color: blueviolet;
+
+    height: 50px;
+}
+main{
+    
+}
+
+
+.menu{
+    background-color: rgba(11, 87, 87, 0.226);
+    height: 1000px;
+    padding-top: 5px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+
+.formulario{
+    border: 2px solid black;
+    display: block;
+    background-color: lavender;
+    height: 300px;
+    padding: 5px;
+    
+
+
+}
+
+label,
+input,textarea {
+    padding: 5px;
+    margin: 3px;
+    
+}
